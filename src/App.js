@@ -8,7 +8,7 @@ var hexToHsl = require('hex-to-hsl');
 class App extends Component {
 
   state = {
-    colors: ["#7683da", "#ad764f", "#4fc7bd"],
+    colors: [],
     hslColors: [],
     colorInput : '',
     isValidHex: false,

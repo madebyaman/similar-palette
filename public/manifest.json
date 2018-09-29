@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Similar Palette",
+  "name": "Quickly generate color palette",
   "icons": [
     {
       "src": "favicon.ico",

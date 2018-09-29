@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "hex-to-hsl": "^1.0.2",
+    "netlify-cli": "^1.2.3",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "1.1.5"
